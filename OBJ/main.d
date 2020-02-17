@@ -28,3 +28,15 @@
 .\obj\main.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
 .\obj\main.o: .\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 .\obj\main.o: .\STM32F10x_FWLib\inc\misc.h
+.\obj\main.o: .\UCOSII\CORE\ucos_ii.h
+.\obj\main.o: .\UCOSII\CONFIG\includes.h
+.\obj\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\obj\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\main.o: .\UCOSII\CORE\ucos_ii.h
+.\obj\main.o: .\UCOSII\PORT\os_cpu.h
+.\obj\main.o: .\UCOSII\CONFIG\os_cfg.h
+.\obj\main.o: .\SYSTEM\delay\delay.h
+.\obj\main.o: .\SYSTEM\sys\sys.h
